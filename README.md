@@ -1,10 +1,3 @@
-# Sorting_Algorithms_Visualizer
+# Sorting Visualizer
 
-This application supports a graphic visualization of selected algorithms on randomly generated or manually created array, step-by-step execution possibility, pseudocode and current state of variables.
-
-1. Download this repository and extract the file
-2. Run 'index.html' file in browser
-
-
-## Screenshot
-![Screenshot](Sorting_Visualisation.png)
+Welcome to Sorting Visualizer! I built this application because I was fascinated by sorting algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Sorting-Visualizer/
